@@ -14,7 +14,7 @@
 
 ## 📥 Quick Download
 
-* **[⬇️ Download `default.exe` (v1.0.0)](https://github.com/nk1990347-cpu/Past-to-PNG/releases/download/V1.0.0/default.exe)**
+* **[⬇️ Download `AE-Apps_Past-To-Img.exe` (v1.0.0)](https://github.com/nk1990347-cpu/Past-to-PNG/releases/download/V1.0.0/AE-Apps_Past-To-Img.exe)**
 * **[📦 View All Releases](https://github.com/nk1990347-cpu/Past-to-PNG/releases/tag/V1.0.0)**[cite: 1]
 
 > **Note:** Zero setup or Python installation is required. Simply download the `.exe` file and run it right away[cite: 1]!
